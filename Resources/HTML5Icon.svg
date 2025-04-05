@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#E34F26" stroke="none">
+    <path d="M19,10 L81,10 L76,82 L50,90 L24,82 Z" />
+    <path d="M50,20 L50,80 L70,75 L75,20 Z" fill="#FFFFFF" />
+    <path d="M50,40 L62,40 L61,60 L50,63 L39,60 L38,50" fill="#EBEBEB" />
+    <path d="M50,40 L38,40 L39,20 L72,20 L71,30 L39,30 L40,40 L60,40 L58,60 L50,63 L42,60 L41,50 L51,50" fill="none" stroke="#FFFFFF" stroke-width="2" />
+  </g>
+</svg> 

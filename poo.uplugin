@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HTML5 Packager",
+	"Description": "支持打包为html",
+	"Category": "Packaging",
+	"CreatedBy": "Unreal HTML5 Team",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": false,
+	"IsExperimentalVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "poo",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
